@@ -104,7 +104,7 @@ The repo includes the Dockerfile and docker-compose.yml necessary to set up the 
 4) Build the images:
    ```
    docker-compose build
-   ```
+   ``` 
 
 5) Run the app, this starts the NodeGoat application at http://localhost:4000/:
    ```
